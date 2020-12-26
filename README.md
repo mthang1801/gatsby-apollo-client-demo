@@ -4,10 +4,10 @@
 </h1>
 
 ### Home page
-!["Home Page"]("./src/images/picture1.png")
+![Home Page!](./src/images/picture1.png)
 
 ### Countries page
-!["Countries Page"]("./src/images/picture2.png")
+![Countries Page!](./src/images/picture2.png)
 
 
 ## Usage 
