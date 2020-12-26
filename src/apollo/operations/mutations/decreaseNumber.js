@@ -1,0 +1,1 @@
+export default countVar => () => countVar(countVar() - 1 );
